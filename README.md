@@ -1,4 +1,4 @@
-# Maket-analysis-of-rog-phone-asus
+# Sentiment-analysis
 
 This project was basically to check whether the release of the new phone ROG ASUS was a success or not.
 The dataset which I used were basically comments people gave on different shopping sites like amazon, flipkart, etc.
